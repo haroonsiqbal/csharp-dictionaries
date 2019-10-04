@@ -1,0 +1,11 @@
+/Users/harooniqbal/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp3.0/dictionaries.csprojAssemblyReference.cache
+/Users/harooniqbal/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp3.0/dictionaries.AssemblyInfoInputs.cache
+/Users/harooniqbal/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp3.0/dictionaries.AssemblyInfo.cs
+/Users/harooniqbal/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp3.0/dictionaries
+/Users/harooniqbal/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp3.0/dictionaries.deps.json
+/Users/harooniqbal/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp3.0/dictionaries.runtimeconfig.json
+/Users/harooniqbal/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp3.0/dictionaries.runtimeconfig.dev.json
+/Users/harooniqbal/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp3.0/dictionaries.dll
+/Users/harooniqbal/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp3.0/dictionaries.pdb
+/Users/harooniqbal/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp3.0/dictionaries.dll
+/Users/harooniqbal/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp3.0/dictionaries.pdb
